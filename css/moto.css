@@ -1,0 +1,51 @@
+
+.moto{
+    
+    width: 70%;
+    height: 480px;
+    margin: 80px ;
+}
+
+.galeria_moto{
+    list-style: none;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.galeria_moto li{
+    display: block;
+    float: left;
+    margin: 1px;
+    position: relative;
+}
+
+.galeria_moto img{
+    width: 200px;
+    height: 180px;
+    padding: 5px;
+    border: 1px solid rgb(0, 0, 0);
+    background: red;
+}
+
+.aumentar:hover{
+    transform: scale(1.5);
+    z-index: 5;
+} 
+
+
+
+#lateral_moto{
+    display: block;
+   
+        width: 19%;
+        float: right;
+        margin: -550px auto;
+        padding: auto;
+        font-size: 1.73em;
+        color: black;
+        background-color: black
+}
+
+#lateral_moto p{
+    color: #fff;
+}

@@ -1,0 +1,50 @@
+.carro{
+    
+    width: 70%;
+    height: 480px;
+    margin: 80px ;
+}
+
+.galeria_carro{
+    list-style: none;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.galeria_carro li{
+    display: block;
+    float: left;
+    margin: 1px;
+    position: relative;
+}
+
+.galeria_carro img{
+    width: 200px;
+    height: 180px;
+    padding: 5px;
+    border: 1px solid rgb(0, 0, 0);
+    background: red;
+}
+
+.aumentar:hover{
+    transform: scale(1.5);
+    z-index: 5;
+} 
+
+
+
+#lateral_carro{
+    display: block;
+    color: #fff;
+        width: 19%;
+        float: right;
+        margin: -550px auto;
+        padding: auto;
+        font-size: 1.6em;
+        
+        background-color: black
+}
+
+#lateral_carro p{
+    color: #fff;
+}
