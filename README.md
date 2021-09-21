@@ -21,4 +21,4 @@ Tema: Oficina mecanica
 </p>
 
 
-https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fosvaldosandoli.github.io%2Fmecanica%2F
+<img alt="Website" src="https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fosvaldosandoli.github.io%2Fmecanica%2F">
