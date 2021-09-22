@@ -23,3 +23,4 @@ Tema: Oficina mecanica
 
 <img alt="Website" src="https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fosvaldosandoli.github.io%2Fmecanica%2F">
 <img alt="GitHub" src="https://img.shields.io/github/license/osvaldosandoli/mecanica?style=flat-square">
+<img alt="W3C Validation" src="https://img.shields.io/w3c-validation/html?style=flat-square&targetUrl=https%3A%2F%2Fosvaldosandoli.github.io%2Fmecanica%2F">
