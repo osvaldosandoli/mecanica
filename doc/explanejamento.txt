@@ -1,0 +1,16 @@
+Tema - Oficina Mecanica 
+
+-Objetivos do site
+
+Esse site tem o objetivo de informar ao cliente sobre nossos serviços relacionados a oficina mecanica, sendo serviços relacionados a manutenção de carros e motos, e tambem personalização. Assim ajudando o cliente a se direcionar melhor para seu objetivo em nos contatar.
+
+
+-Publico do site:
+
+Nosso publico abrange todas as pessoas que possuem automoveis.
+
+-Palavras chaves:
+
+Automoveis; carro; moto; aprimoramento de peças; manutenção de peças; troca de óleo; revisão do meu automovel.
+
+-etc.
