@@ -1,0 +1,82 @@
+@charset "UTF-8";
+
+ 
+#historia {
+    display: block;
+    width: 69%;
+    float: left;
+   color: #fff;
+    margin: 5px auto;
+}
+
+#lateral_historia{
+        display: block;
+        width: 29%;
+        float: right;
+        margin: -240px auto;
+        padding: 10px;
+
+}
+
+h1.lateralh1{
+    color: #fff;
+    font-size: 1.5em;
+    text-align: center;
+    margin: 2px 0px;
+}
+
+
+#historiap, #lateral_historia p{
+    text-align: justify;
+    padding: 0px 15px;
+    font-size: 1.4em;
+    color: #fff;
+}
+
+h1.historiah1{
+    color: #fff;
+    font-size: 2.5em;
+    text-align: center;
+    margin: 2px 0px;
+    
+}
+
+table{
+    text-align: center;
+    margin: 0px auto;
+    
+}
+
+#somos {
+    display: block;
+    width: 69%;
+    float: left;
+    color: #fff;
+    margin: 5px auto;
+}
+
+
+#somosp{
+    text-align: justify;
+    padding: 0px 15px;
+
+}
+
+h1.somosh1{
+    color: #fff;
+    font-size: 2.5em;
+    text-align: center;
+    margin: 2px 0px;
+    
+}
+
+table{
+    text-align: center;
+    margin: 0px auto;
+}
+
+.video{
+    width: 320; 
+    height: 170;
+}
+
