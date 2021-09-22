@@ -26,13 +26,13 @@ Tema: Oficina mecanica
 <img alt="W3C Validation" src="https://img.shields.io/w3c-validation/html?style=flat-square&targetUrl=https%3A%2F%2Fosvaldosandoli.github.io%2Fmecanica%2F">
 
 
-#Autor
+# Autor
 Osvaldo Sandoli
 
-#Construído com
+# Construído com
 HTML5
 CSS3
 JS
 
-#Licença
+# Licença
 Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md para detalhes.
