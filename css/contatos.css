@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+nav.menu{
+    width: 80%;
+    display: block;
+    position: absolute;
+    top: 272px;
+    margin-left: 20.31%;
+    z-index: 100; }
+
+
+form{
+    width: 70%;
+    margin: 50px;
+    color: rgb(255, 0, 0);
+}
+
+
+
+input, textarea{
+    background-color: white;
+    font-size: 0.9em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input:hover, textarea:hover{
+    background: #ccc; 
+    border-color: #fff(0, 0, 0);
+}
+
+legend{
+    color: #fff;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+#veiculo {
+    width: 35%;
+}
+
+#serviço {
+    width: 35%;
+}
+
+fieldset{
+    border-color: white;
+    margin: 60px;
+}
+
+.btn{
+    background: black (83, 83, 255);
+    padding: 10px;
+    margin: 5px;
+    font-size: 1.0em;
+    border: none;
+    color: blue (255, 255, 255);
+    font-weight: bold;
+    display: inline-block;
+    position: relative;
+    left: 360px;  
+}
+
+.btn:hover{
+    background: #9bc848;
+
+}
+
+p{
+    color: #fff;
+}
