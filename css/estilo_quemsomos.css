@@ -1,0 +1,32 @@
+#historia{
+    color: aliceblue;
+    width: 70%;
+    background-color: var(--main-bg-color);   
+}
+
+
+
+
+:root{
+    --main-bg-color: rgb(67, 18, 18);
+  }
+
+
+
+#somos{
+    color: aliceblue;
+}
+
+
+#lateral_historia{
+    color: aliceblue;
+    margin-left: 50px;
+    background-color: var(--main-bg-color);
+}
+
+.conteudo{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+}
