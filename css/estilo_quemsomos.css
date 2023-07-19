@@ -22,6 +22,7 @@
     color: aliceblue;
     margin-left: 50px;
     background-color: var(--main-bg-color);
+    padding: 10px;
 }
 
 .conteudo{
